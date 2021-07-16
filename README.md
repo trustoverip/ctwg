@@ -1,7 +1,6 @@
 # Terms for CTWG
 
-Instead of holding code, this repo provides a [terms wiki](https://wiki.trustoverip.org/display/HOME/Terms+Wikis) for the TOIP Foundation's [Concepts and Terminology Working Group](https://wiki.trustoverip.org/pages/viewpage.action?pageId=65700). See "[../../wiki](Wiki
-)" on the menu strip above.
+Instead of holding code, this repo provides a [terms wiki](https://wiki.trustoverip.org/display/HOME/Terms+Wikis) for the TOIP Foundation's [Concepts and Terminology Working Group](https://wiki.trustoverip.org/pages/viewpage.action?pageId=65700). See "[Wiki](../../wiki)" on the menu strip above.
 
 ### How to contribute
 
