@@ -4,5 +4,4 @@ Instead of holding code, this repo provides a [terms wiki](https://wiki.trustove
 
 ### How to contribute
 
-See [this training](https://example.com/foo) for 
-instructions.
+See [this training](https://example.com/foo) for instructions.
