@@ -1,6 +1,10 @@
 # ToIP Concepts and Terminology User Guide
 
-Terminology, glossaries and the like exist for understanding the concepts/ideas of others, and to enable others to correctly understand ours. This is the very basic and pervasive problem that many cultures have [identified in different ways](https://en.wikipedia.org/wiki/Tower_of_Babel#Comparable_myths). CTWG is tasked to enable ToIP participants (people working in/with working groups (WGs) and task forces (TFs), and others) to come to grips with this problem, by providing means/mechanisms that they may use to tacke these problems as they occur.
+TL;DR: This user guide is not a quick fix for creating a glossary. It provides you with guidance that will help you to understand the concepts/ideas of others, in the same way as it helps others to correctly understand yours.
+
+Understanding each other is one of the most basic and pervasive problems there is between people, the more so as they come from different backgrounds. Many cultures have [stories](https://en.wikipedia.org/wiki/Tower_of_Babel#Comparable_myths) that show they know this. Knowing there is a problem is a good start, but it must be followed by knowing how this can be dealt with, which in turn should be followed by people actually dealing with it. 
+
+CTWG is tasked to enable ToIP participants (people working in/with working groups (WGs) and task forces (TFs), and others) to come to grips with this problem, by providing means and mechanisms that have proved to be helpful (when actually used).
 
 This guide:
 1. explains the ideas ([concepts](concept)) behind creating and maintaining a [terminology](terminology) for some purpose;
