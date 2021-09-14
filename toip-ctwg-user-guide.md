@@ -1,6 +1,6 @@
 # ToIP Concepts and Terminology User Guide
 
-TL;DR: This user guide is not a quick fix for creating a glossary. It provides you with guidance that will help you to understand the concepts/ideas of others, in the same way as it helps others to correctly understand yours.
+**TL;DR**: This user guide is not a quick fix for creating a glossary. Rather, it provides you with guidance that will help you to understand the concepts/ideas of others, in the same way as it helps others to correctly understand yours. And that takes some more effort.
 
 Understanding each other is one of the most basic and pervasive problems there is between people, the more so as they come from different backgrounds. Many cultures have [stories](https://en.wikipedia.org/wiki/Tower_of_Babel#Comparable_myths) that show they know this. Knowing there is a problem is a good start, but it must be followed by knowing how this can be dealt with, which in turn should be followed by people actually dealing with it. 
 
