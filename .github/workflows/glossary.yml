@@ -39,12 +39,12 @@ jobs:
           echo "DEPLOY_BRANCH=${{ github.event.inputs.deployBranch || env.DEFAULT_DEPLOY_BRANCH }}" >> $GITHUB_ENV
 
       - name: Run script
-        run: ./tt/bin/tt glossary ${{ env.GLOSSARY_DEF_FILE }} >index.html
+        run: ./tt/bin/tt glossary ${{ env.GLOSSARY_DEF_FILE }} >glossary.html
         
       - name: Publishing
         run: |
           mkdir public
-          cp index.html public
+          cp glossary.html public
           cd public
           git config --global init.defaultBranch main
           git init
