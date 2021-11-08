@@ -47,6 +47,7 @@ jobs:
 
       - name: Publishing
         run: |
+          git fetch origin
           git checkout ${{ env.DEPLOY_BRANCH }}
           mv glossary.html.new glossary.html
           git add glossary.html
