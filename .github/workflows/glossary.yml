@@ -1,4 +1,4 @@
-name: tt Run and Publish
+name: Update glossary
 
 # Controls when the workflow will run
 on:
@@ -47,7 +47,7 @@ jobs:
 
       - name: Publishing
         run: |
-          git checkout gh_pages
+          git checkout ${{ env.DEPLOY_BRANCH }}
           mv glossary.html.new glossary.html
           git add glossary.html
           git commit -m "auto-update glossary"
