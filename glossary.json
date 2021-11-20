@@ -1,5 +1,5 @@
 {
-    "title": "CTWG Glossary",
+    "frame": "https://raw.githubusercontent.com/trustoverip/ctwg/main/.glossary-template.html",
     "sources": [
         { "wiki": "git@github.com:trustoverip/ctwg-terms.git" }
     ]
